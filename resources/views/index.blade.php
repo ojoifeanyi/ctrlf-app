@@ -12,7 +12,7 @@
     <div class="s004">
       <form>
         <fieldset>
-          <legend>CTRLF.NG</legend>
+          <legend><img src="search/images/ctrlf.png" width="100" style="max-width:100%;"></legend>
           <div class="inner-form">
             <div class="input-field">
               <input class="form-control" id="choices-text-preset-values" type="text" placeholder="Type to search..." />
